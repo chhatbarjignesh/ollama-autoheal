@@ -110,7 +110,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-Distributed under the MIT License. See `LICENSE` for more information. (Note: Create a LICENSE file if needed)
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 *Built with ❤️ for better test automation.*
